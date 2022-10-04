@@ -1,0 +1,10 @@
+:root{
+  --purple:#A020F0;
+}
+body{
+      /* background 2 */
+  background: #7F00FF; 
+  background: -webkit-linear-gradient(to left, #E100FF, #7F00FF);  
+  background: linear-gradient(to left, #E100FF, #7F00FF);
+  box-sizing: border-box;
+}
